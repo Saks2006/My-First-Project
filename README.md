@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Saikat Sarkar
 
 ## 📍 Location
-Balangir, Odisha, India | Patna, Bihar
+Balangir, Odisha, India
 
 ## 💼 Professional Background
 - **Field**: Telecommunications & Infrastructure Project Management
@@ -17,7 +17,7 @@ Balangir, Odisha, India | Patna, Bihar
 
 ## 🛠️ Skills
 - **Tools**: Microsoft Excel, PDF/DOCX editors
-- **Languages**: English, Odia
+- **Languages**: English, Bangla, Hindi,Asamese,Odia
 - **Technical**: Project management, optical fibre networks, formal communication
 
 ## 📚 Currently Learning
