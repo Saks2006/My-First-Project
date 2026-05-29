@@ -26,7 +26,6 @@ Balangir, Odisha, India | Patna, Bihar
 - AI Engineering & LLMs
 
 ## 🔄 My GitHub Journey
-- ✅ Created GitHub account: May 2026
 - 📖 Learning: Microsoft's [AI for Beginners](https://github.com/microsoft/ai-for-beginners) [web:1]
 - 🤖 Exploring: [GitHub Copilot Fundamentals](https://learn.microsoft.com/en-us/training/paths/copilot/) [web:11]
 - 📂 Following: [Learn AI Engineering](https://github.com/ashishps1/learn-ai-engineering) [web:5]
